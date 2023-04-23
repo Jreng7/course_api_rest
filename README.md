@@ -1,2 +1,2 @@
-# full-api
-criando uma api com node.js 
+# Projeto Guia de Perguntas do curso "Formação Node.JS"
+Desenvolvendo um guia de perguntas.
