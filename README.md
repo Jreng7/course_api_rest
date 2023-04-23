@@ -1,2 +1,3 @@
-# Projeto Guia de Perguntas do curso "Formação Node.JS"
+# API Restful Javascript com Node.js, Typescript, TypeORM etc
+
 Desenvolvendo um guia de perguntas.
