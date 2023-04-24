@@ -1,3 +1,1 @@
-# API Restful Javascript com Node.js, Typescript, TypeORM etc
-
-Desenvolvendo um guia de perguntas.
+# Curso de api rest
